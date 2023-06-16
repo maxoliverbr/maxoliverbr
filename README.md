@@ -28,15 +28,6 @@
 
   <p align="center">
     POM, Python and Selenium automation test. 
-    <br />
-    <a href="https://github.com/maxoliverbr/eCoreSeleniumPython"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/maxoliverbr/eCoreSeleniumPython">View Demo</a>
-    ·
-    <a href="https://github.com/maxoliverbr/eCoreSeleniumPython/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/maxoliverbr/eCoreSeleniumPython/issues">Request Feature</a>
   </p>
 </div>
 
@@ -91,70 +82,31 @@ Code challenge by Daniel Guimarães for eCore Senior QA Automation
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This app was developed using Page Object Model pattern (POM) to automate access via login of webapp 
-and validate functionality and information presented to the user using Python, Selenium and Chrome.
-
-There are 3 pages in this app:
-* Login
-* Account
-* Invoice
+Software Devlopment Engineer in Test.
 
 ### Prerequisites
 
-In order to test this application it is required:
-* Python 3.10.11
-* Selenium 4.9
-* Pytest 7.3.1
-* Chrome Latest Version
+Knowledge:
+* C
+* MS SQL
+* Python
+* Selenium
+* PlayWright
+* ROBOT
+* Pytest
+* K6
 
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   gh repo clone maxoliverbr/eCoreSeleniumPython
-   ```
-2. Install packages
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run tests with pytest
-   ```sh
-   pytest -v tests
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Fix 2 known issues
-- [ ] Improve code for other browsers
-
-See the [open issues](https://github.com/maxoliverbr/eCoreSeleniumPython/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the Private eCore License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
 Max Oliver - max.oliver@cintrax.com.br
-
-Project Link: [https://github.com/maxoliverbr/eCoreSeleniumPython](https://github.com/maxoliverbr/eCoreSeleniumPython)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
