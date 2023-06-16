@@ -47,7 +47,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+Work with automation testing. Performance testing. Coding. Finding bugs. Solving problems and puzzles. 
 
 ### Built With
 
