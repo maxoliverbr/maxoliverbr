@@ -70,6 +70,7 @@ Knowledge:
 * C
 * MS SQL
 * Python
+* Postman
 * Selenium
 * PlayWright
 * ROBOT
