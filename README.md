@@ -66,7 +66,7 @@ Software Devlopment Engineer in Test.
 
 ### Prerequisites
 
-Knowledge:
+Knowledge/Certification:
 * C
 * MS SQL
 * Python
@@ -75,7 +75,11 @@ Knowledge:
 * PlayWright
 * ROBOT
 * Pytest
+* Github Actions
+* Jenkins
 * K6
+* Tensorflow
+* AI/ML
 
 
 ### Installation
