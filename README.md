@@ -49,12 +49,6 @@
 ## About The Project
 Work with automation testing. Performance testing. Coding. Finding bugs. Solving problems and puzzles. 
 
-### Built With
-
-* [![Python][Python]][Python-url]
-* [![Selenium][Selenium]][Selenium-url]
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
