@@ -62,15 +62,12 @@ Software Devlopment Engineer in Test.
 
 Knowledge/Certification:
 * C
-* MS SQL
 * Python
 * Postman
 * Selenium
 * PlayWright
-* ROBOT
 * Pytest
 * Github Actions
-* Jenkins
 * K6
 * Tensorflow
 * AI/ML
