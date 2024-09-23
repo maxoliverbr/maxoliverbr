@@ -26,9 +26,6 @@
 
 <h3 align="center">Max Oliver</h3>
 
-  <p align="center">
-    POM, Python and Selenium automation test. 
-  </p>
 </div>
 
 
