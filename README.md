@@ -44,7 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Work with automation testing. Performance testing. Coding. Finding bugs. Solving problems and puzzles. 
+Work...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
