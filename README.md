@@ -60,12 +60,7 @@ Software Devlopment Engineer in Test.
 Knowledge/Certification:
 * C
 * Python
-* Postman
-* Selenium
-* PlayWright
 * Pytest
-* Github Actions
-* K6
 * Tensorflow
 * AI/ML
 
