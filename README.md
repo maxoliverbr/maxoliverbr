@@ -73,9 +73,6 @@ Knowledge/Certification:
 
 <!-- CONTACT -->
 ## Contact
-
-Max Oliver - max.oliver@cintrax.com.br
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
