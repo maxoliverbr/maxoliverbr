@@ -1,8 +1,7 @@
 <h1 align="center">Max Oliver</h1>
 
 <p align="center">
-  Software engineer building AI agents, data pipelines and developer tooling at <b>3Flux</b>.<br>
-  Background in test automation (SDET) — I care about software that is typed, tested and shippable.
+  Software engineer building AI agents, data pipelines and developer tooling at <b>3Flux</b>.<br>CTO — I care about software that is typed, tested and shippable.
 </p>
 
 <p align="center">
